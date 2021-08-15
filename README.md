@@ -1,9 +1,9 @@
 ### Hi there 👋 I am Pratyush
-Front-end Developer and an ML enthusiast.
+Front-end Developer and a Data Science and ML enthusiast.
 
-- 🔭 I’m currently working on Back End Development.
+- 🔭 I’m currently working on SQL and Data Analytics.
 - 🌱 I’m currently learning Machine Learning.
-- 💬 Ask me about Python, Java, HTML, CSS, Javascript.
+- 💬 Ask me about SQL, Python, Java, HTML, CSS, Javascript.
 - 📫 How to reach me: pratyush0909srivastava@gmail.com
 <!--
 **pratyush-09/pratyush-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
