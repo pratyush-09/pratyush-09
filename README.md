@@ -1,4 +1,4 @@
-### Hi there 👋 I am Pratyush
+### Hi there 👋 I am Pratyush Srivastava
 Front-end Developer and a Data Science and ML enthusiast.
 
 - 🔭 I’m currently working on SQL and Data Analytics.
